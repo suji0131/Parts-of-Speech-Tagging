@@ -1,5 +1,5 @@
 # Parts-of-Speech-Tagging with Hidden Markov Models 
----
+
 ### Aim
 
 To determine the syntactic category of a word from the words in its surrounding context. In this project, I used the [Pomegranate](http://pomegranate.readthedocs.io/) library to build a hidden Markov model for part of speech tagging using a "universal" tagset. 
